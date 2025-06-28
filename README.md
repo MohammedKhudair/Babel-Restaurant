@@ -6,11 +6,16 @@ Proud to share **BabilRestaurant**, a single-restaurant food ordering app built 
 
 ## 📸 Screenshots
 
-![Intro Page](screenshots/screenshot1.png)
-![Home Page](screenshots/screenshot2.png)
-![Category Page](screenshots/screenshot3.png)
-![Favorites](screenshots/screenshot4.png)
-![Profile](screenshots/screenshot5.png)
+
+![Intro Page](screenshots/Intro1.png)
+![Intro Page](screenshots/Intro2.png)
+![Home Page](screenshots/Sign_in_out.png)
+![Category Page](screenshots/Homepage.png)
+![Favorites](screenshots/DetailsScreen.png)
+![Profile](screenshots/CategoryPage.png)
+![Favorites](screenshots/Favorite.png)
+![Profile](screenshots/ProfilePage.png)
+![Profile](screenshots/OrdersHistory.png)
 
 ---
 
