@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553439832995",
+    "project_id": "babel-restaurant",
+    "storage_bucket": "babel-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553439832995:android:06ade27bac08f96277c816",
+        "android_client_info": {
+          "package_name": "com.mohammed.babelrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553439832995-skcrhp379pd14c0pu4d0tdvo48ra0m02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjNjNhWkXOu_hkV_4SvBgyJRm0TD5I8XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553439832995-skcrhp379pd14c0pu4d0tdvo48ra0m02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

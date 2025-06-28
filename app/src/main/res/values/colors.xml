@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F9D423</color>
+    <color name="colorPrimaryDark">#f8bd1a</color>
+    <color name="colorSecondary">#2D9CDB</color>
+    <color name="colorSecondaryDark">#2788c7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="accent1">#073042</color>
+    <color name="accent2">#DAEFFF</color>
+    <color name="dark">#1A231E</color>
+    <color name="light_dark">#2C3530</color>
+    <color name="home_background">#FFFFFFFF</color>
+    <color name="icon_background">#1A231E</color>
+    <color name="check_box_background">#FFFFFFFF</color>
+
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">الرئيسيه</string>
+    <string name="categorise">الاقسام</string>
+    <string name="favorite">المفضله</string>
+    <string name="account">الحساب</string>
+    <string name="welcome">مرحبا بكم</string>
+    <string name="to_babel_restaurant">في مطعم بابل</string>
+    <string name="the_taste_that_you_ll_remember">"المذاق الذي ستتذكره. "</string>
+    <string name="start">ابدء</string>
+    <string name="skip"><u>تجاوز</u></string>
+    <string name="don">تم</string>
+    <string name="choose_your_favorite_meal">اختر وجبتك المفضله</string>
+    <string name="choose_your_favorite_meal_desc">اختار اي وجبه من القائمه وتعرف \nعلى تفاصيل الوجبه</string>
+    <string name="place_your_order">وضع طلبيه الطعام</string>
+    <string name="place_your_order_desc">بعد تاكيد طلبيه الطعام ستسلك \nالوجبه باسرع وقت</string>
+    <string name="enjoy_your_mael">استمتع بوجبتك</string>
+    <string name="enjoy_your_mael_desc">استمتع بوجبتك الذيذه بعد\n  وصول الطعام 😉</string>
+    <string name="sign_in_with_google">سجل باستخدام Google</string>
+    <string name="order_your_favorite_food">اطلب وجبتك المفضله</string>
+    <string name="your_favorite_meal">ابحث عن وجبتك المفضله من خلال \n القائمه او الاقسام</string>
+    <string name="common_meals">الوجبات الاكثر طلبا</string>
+    <string name="meal_list">قائمة الوجبات </string>
+    <string name="grilled_chechen">دجاج مشوي</string>
+    <string name="meal_description">هنا نشرح القليل من التفاصيل عن الوجبه.</string>
+
+    <string name="category">الاقسام</string>
+    <string name="meat_meals">وجبات الحم</string>
+    <string name="rice_meals">وجبات الارز</string>
+    <string name="snacks">وجبات خفيفة</string>
+    <string name="soup">وجبات الحساء</string>
+    <string name="add_your_favorites_notify">أضف مفضلاتك هنا \n بالنقر فوق زر القلب على البطاقة.</string>
+
+    <string name="edit_account">تعديل الملف الشخصي</string>
+    <string name="orders_history">تاريخ الطلبات</string>
+    <string name="settings">الاعدادات</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="version">الاصدار 1.0 </string>
+
+    <string name="status">الحاله:</string>
+    <string name="name">الوجبه:</string>
+    <string name="order_number">رقم الطلبيه:</string>
+    <string name="date">التاريخ:</string>
+
+    <string name="order_accepted">تم قبول الطلبيه</string>
+    <string name="order_declined">تم رفض الطلبيه</string>
+    <string name="under_review">قيد المراجعه</string>
+
+    <string name="are_you_sure">هل انت متاكد من تسجيل الخروج !</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">الغاء</string>
+
+ <string name="language">الغة</string>
+    <string name="select_language">اختار اللغة</string>
+
+    <string name="night_mode">الوضع الداكن</string>
+<string name="privacy_policy">سياسة الخصوصية</string>
+<string name="terms_of_use">شروط الاستخدام</string>
+
+    <string name="arabic">العربية</string>
+    <string name="english">الانكليزية</string>
+    <string name="order_now">اطلب الان</string>
+    <string name="description">التفاصيل</string>
+    <string name="add_snacks">اضافه مقبلات</string>
+
+    <string name="order_details">تفاصيل الطلب</string>
+    <string name="meal">الوجبه :</string>
+    <string name="amount">الكمية :</string>
+    <string name="price">السعر :</string>
+    <string name="snack">المقبلات :</string>
+    <string name="Confirm">تأكيد الطلب</string>
+    <string name="sign_in">تسجيل الدخول</string>
+
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forget_password">نسيت كلمة المرور!</string>
+    <string name="register">تسجيل</string>
+    <string name="new_account">تسجيل حساب جديد</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="already_have_account">لدي حساب بالفعل</string>
+    <string name="textBoxNote">تأكد من ملئ الحقول</string>
+    <string name="password_not_match">كلمة المرور لا تتطابق</string>
+    <string name="password_text_box_error">لايمكن ان يكون الحقل فارغ</string>
+    <string name="badly_formatted_email">تنسيق البريد الالكتروني غير صحيح.</string>
+    <string name="short_password">كلمه المرور قصيره، يجب ان تكون اكبر من 6 احرف.</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="reset_email_message">قم بادخال بريدك المسجل،\n سنقوم بارسال بريد الكتروني لتهيئه كلمه المرور.</string>
+    <string name="send">ارسال</string>
+    <string name="deliver_address">عنوان التوصيل</string>
+    <string name="save">حفظ</string>
+    <string name="no_address_alert">لا يوجد عنوان لتوصيل الطعام ، اضغط على "موافق" لإضافة عنوان</string>
+    <string name="no_network_available"> لا يوجد اتصال بالشبكه!</string>
+    <string name="network_issue">حدثت مشكلة الرجاء المحاوله لاحقا.</string>
+    <string name="location_permission">نحتاج الى اذن الموقع حتى نرسل الطلب الى موقعك</string>
+    <string name="location_activate">قم بتشغيل الموقع من فضلك حتى نتمكن من توصيل الطلب الى موقعك الحالي</string>
+    <string name="no_orders">لا توجد طلبيات بعد!</string>
+
+
+</resources>

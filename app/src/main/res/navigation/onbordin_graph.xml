@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/introSlideFragment">
+
+    <fragment
+        android:id="@+id/introSlideFragment"
+        android:name="com.mohammed.babelrestaurant.screen_intro.IntroSlideFragment"
+        android:label="fragment_intro_slide"
+        tools:layout="@layout/fragment_intro_slide">
+        <action
+            android:id="@+id/action_introSlideFragment_to_slideOneFragment"
+            app:destination="@id/slideOneFragment"
+            app:enterAnim="@anim/slide_out_down"
+            app:exitAnim="@anim/slide_out_up"
+            app:popEnterAnim="@anim/slide_in_up"
+            app:popExitAnim="@anim/slide_in_down" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/slideOneFragment"
+        android:name="com.mohammed.babelrestaurant.screen_intro.SlideOneFragment"
+        android:label="fragment_slide_one"
+        tools:layout="@layout/fragment_slide_one">
+        <action
+            android:id="@+id/action_slideOneFragment_to_slideTowFragment"
+            app:destination="@id/slideTowFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slid_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/slideTowFragment"
+        android:name="com.mohammed.babelrestaurant.screen_intro.SlideTowFragment"
+        android:label="fragment_slide_tow"
+        tools:layout="@layout/fragment_slide_tow">
+        <action
+            android:id="@+id/action_slideTowFragment_to_slideThreeFragment"
+            app:destination="@id/slideThreeFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slid_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/slideThreeFragment"
+        android:name="com.mohammed.babelrestaurant.screen_intro.SlideThreeFragment"
+        android:label="fragment_slide_three"
+        tools:layout="@layout/fragment_slide_three" />
+
+</navigation>
